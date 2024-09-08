@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Hi there 👋, I'm Aj4kk </h1>
 
-  <p>I’m currently working on <a href="https://discord.gg/xrshop/">Aurora Members</a></p>
+  <p>I’m currently working on <a href="https://discord.gg/droprp/">DropRP</a></p>
 
   <p>🌱 I’m currently learning Python</p>
 
-  <p>💼 My Discord server: <a href="https://discord.gg/xrshop">Aurora Members</a></p>
+  <p>💼 My Discord server: <a href="https://discord.gg/droprp">DropRP</a></p>
 
   <p>💬 Ask me about Batch</p>
 
