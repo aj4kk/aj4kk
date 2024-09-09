@@ -1,22 +1,2 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Aj4kk </h1>
-
-  <p>I’m currently working on <a href="https://discord.gg/droprp/">DropRP</a></p>
-
-  <p>🌱 I’m currently learning Python</p>
-
-  <p>💼 My Discord server: <a href="https://discord.gg/droprp">DropRP</a></p>
-
-  <p>💬 Ask me about Batch</p>
-
-  <p>📫 How to reach me: <a href="mailto:aj4kk@int.pl">aj4kk@int.pl</a></p>
-
-  <h2>Languages and Frameworks</h2>
-
-  <p>
-    <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML5" />
-    <img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6" alt="CSS3" />
-    <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" />
-  </p>
-
-</div>
+  <h1>elo kurwo te konto zostało przejęte przez GGTeam a ajak ma nowe konto no a jak wypierdalać i nie wbijać na te gówno droprp tylko realistic spoofer to topeczka ez kurwy nikt was nie kocha cwele jebane </h1>
